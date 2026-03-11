@@ -1,7 +1,10 @@
 streamlit
+numpy
 requests
 beautifulsoup4
 langchain
+langchain-community
 sentence-transformers
 huggingface-hub
 tiktoken
+pypdf
